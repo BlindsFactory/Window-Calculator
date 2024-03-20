@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.d5344571.css",
-    "main.js": "/static/js/main.78ba1205.js",
-    "static/media/Blinds-factory-logo.png": "/static/media/Blinds-factory-logo.2235bd4574481b4d4540.png",
-    "static/media/Nili-group-logo.png": "/static/media/Nili-group-logo.0f54baeeac071f197fe5.png",
+    "main.js": "/static/js/main.e7308a80.js",
     "index.html": "/index.html",
     "main.d5344571.css.map": "/static/css/main.d5344571.css.map",
-    "main.78ba1205.js.map": "/static/js/main.78ba1205.js.map"
+    "main.e7308a80.js.map": "/static/js/main.e7308a80.js.map"
   },
   "entrypoints": [
     "static/css/main.d5344571.css",
-    "static/js/main.78ba1205.js"
+    "static/js/main.e7308a80.js"
   ]
 }
